@@ -1,0 +1,74 @@
+{
+	"providerName": "Coffee and Beer TV",
+	"lastUpdated": "2016-10-15T00:00:00+00:00",
+	"language": "en",
+	"categories": [{
+		"name": "Don't Panic",
+		"query": "dontpanic",
+		"order": "most_recent"
+	}],
+	"series": [{
+		"id": "530912601",
+		"title": "Don't Panic",
+		"episodes": [{
+			"id": "DP144",
+			"title": "Oculus's Vision, BitTorrent Later and Samsung's Toast",
+			"content": {
+				"dateAdded": "2015-10-10T00:00:00+00:00",
+				"videos": [{
+					"url": "https://s3-us-west-2.amazonaws.com/coffeeandbeer/DontPanic/DontPanic+%23144.mp4",
+					"quality": "HD",
+					"videoType": "MP4"
+				}],
+				"duration": 3619
+			},
+			"thumbnail": "https://i.ytimg.com/vi/ICJ-7LhV09M/default.jpg",
+			"episodeNumber": 144,
+			"shortDescription": "We discuss Colby's adventures at the Apple store, why VR might actually be cool, the real life dangers of exploding cell phone and exactly how the new Facebook Events app will help your social life.",
+			"longDescription": "On this episode of Don't Panic we discuss Colby's adventures at the Apple store, why VR might actually be cool, the real life dangers of exploding cell phone and exactly how much the new Facebook Events app will help your social life.",
+			"tags": "dontpanic"
+		}, {
+			"id": "DP143",
+			"title": "Twitch Prime, Pixel Previews and Blackberry's Surrender",
+			"content": {
+				"dateAdded": "2015-10-03T00:00:00+00:00",
+				"videos": [{
+					"url": "https://s3-us-west-2.amazonaws.com/coffeeandbeer/DontPanic/DontPanic+%23143.mp4",
+					"quality": "HD",
+					"videoType": "MP4"
+				}],
+				"duration": 3755
+			},
+			"thumbnail": "https://i.ytimg.com/vi/7tfcnlivgNI/default.jpg",
+			"episodeNumber": 143,
+			"shortDescription": "We begin by discussing hair care products and how neat the Apple Store is.  Then the tech news including a preview of Google's Pixel phone event and why Amazon needs to work on those biased reviews.",
+			"longDescription": "We begin this episode of Don't Panic discussing hair care products and how neat the Apple Store is.  Then we discuss the tech news including a preview of Google's Pixel phone event (can they ever get phones right?) and why Amazon needs to do some work on those biased reviews.  It's a rip roarin' good time!",
+			"tags": "dontpanic"
+		}, {
+			"id": "DP142",
+			"title": "SnapGlasses, Tweet Sales and Too Many Views",
+			"content": {
+				"dateAdded": "2015-09-28T00:00:00+00:00",
+				"videos": [{
+					"url": "https://s3-us-west-2.amazonaws.com/coffeeandbeer/DontPanic/DontPanic+%23142.mp4",
+					"quality": "HD",
+					"videoType": "MP4"
+				}],
+				"duration": 4386
+			},
+			"thumbnail": "https://i.ytimg.com/vi/z2ODaAZ8taw/default.jpg",
+			"episodeNumber": 142,
+			"shortDescription": "On this special Wednesday edition, we begin by discussing the presidential debate then jump to the tech news including Snapchat's new Spectacles and when all our lives are 100% recorded forever.",
+			"longDescription": "On this special Wednesday edition of Don't Panic, we begin by briefing discussing the presidential debate then jump right into the tech news including Snapchat's new Spectacles and what it will mean when all our lives are 100% recorded forever.  We also discuss who might possibly buy Twitter and whether or not it make sense.",
+			"tags": "dontpanic"
+		}],
+		"genres": [
+			"technology",
+			"news",
+			"comedy"
+		],
+		"thumbnail": "https://s3-us-west-2.amazonaws.com/coffeeandbeer/Graphics/DPThumbnail.png",
+		"shortDescription": "The technology podcast on gadgets, the Internet and you!  With your hosts Dan, Colby and Shaun.",
+		"tags": "dontpanic"
+	}]
+}
